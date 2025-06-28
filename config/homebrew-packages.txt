@@ -1,0 +1,33 @@
+# Core development tools
+git
+tree
+curl
+wget
+jq
+htop
+
+# Node.js ecosystem
+nvm
+node
+npm
+yarn
+
+# Programming languages
+go
+python@3.12
+ruby
+
+# DevOps & Cloud
+docker
+docker-compose  
+awscli
+aws-elasticbeanstalk
+ngrok
+
+# System utilities
+autoconf
+readline
+openssl@3
+ca-certificates
+zlib
+brotli

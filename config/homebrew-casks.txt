@@ -1,0 +1,6 @@
+# Applications via Homebrew Cask
+spotify
+slack
+notion
+nordvpn
+firefox
