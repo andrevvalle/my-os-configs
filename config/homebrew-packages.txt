@@ -23,6 +23,7 @@ docker-compose
 awscli
 aws-elasticbeanstalk
 ngrok
+terraform
 
 # System utilities
 autoconf
