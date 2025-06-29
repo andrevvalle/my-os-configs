@@ -36,7 +36,7 @@ Este repositório contém um conjunto de scripts modulares que automatizam compl
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/mac-setup.git
+git clone https://github.com/andrevvalle/my-os-configs
 cd mac-setup
 
 # Execute o script principal
